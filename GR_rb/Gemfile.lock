@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    histogram (0.2.4.1)
+    numo-narray (0.9.1.6)
+    ruby-gr (0.0.12)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  histogram
+  numo-narray
+  ruby-gr
+
+BUNDLED WITH
+   2.0.1
